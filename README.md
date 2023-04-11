@@ -24,7 +24,9 @@
 	<a href="mailto:tmdgjs7495@korea.ac.kr">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=audtmd7495" />
+	<a href="https://solved.ac/audtmd7495/">
+		<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=audtmd7495" />
+	</a>
 	<br>
 </div>
 
