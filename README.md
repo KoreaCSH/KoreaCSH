@@ -17,10 +17,7 @@
 	<p>🎨 About Me 🎨</p>
 </div>
 <div align=center>
-	<a href="https://krchoish.tistory.com/">
-		<img src="https://img.shields.io/badge/Tistory-FF9800?style=flat&logo=Tistory&logoColor=white" />
-	</a>
-	<a href="mailto:tmdgjs7495@korea.ac.kr">
+	<a href="mailto:tmdgjs7495@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://solved.ac/audtmd7495/">
